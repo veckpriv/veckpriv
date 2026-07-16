@@ -24,6 +24,23 @@ VeckPRIV is more than just a collection of tools — it's a statement that the w
 - **Independence**: no reliance on cloud services or third-party vendors
 - **Simplicity**: lightweight, fast, and easy to use
 
+## ⚠️ Important: Where to Find Us
+
+VeckPRIV **does not have any official social media accounts** — no Instagram, no X/Twitter, no TikTok, no Discord, no Telegram, no Facebook, and no YouTube. We do not engage in social media marketing, and we never will.
+
+**The only official home of VeckPRIV is:**
+
+> **https://veckpriv.com**
+
+Everything else — fake accounts, imposter pages, or third-party listings — is **not affiliated with us**. If you see VeckPRIV anywhere else, it's likely a scam or impersonation. Stay safe and always verify that you're on the real `.com` domain.
+
+We choose to stay away from social media because:
+- We don't want to collect or monetize your attention
+- We don't want to feed algorithms with your data
+- We believe in a quiet, private web experience — not engagement loops
+
+If you want to support us, spread the word by sharing **veckpriv.com** directly. That's the only way.
+
 ## 🌱 Project Status
 
 VeckPRIV is maintained by a solo developer and is continuously evolving. New tools are added regularly, all holding the same uncompromising privacy standard. Community support is vital to keeping the project alive and free.
