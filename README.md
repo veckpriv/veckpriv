@@ -28,7 +28,7 @@ VeckPRIV is more than just a collection of tools — it's a statement that the w
 
 VeckPRIV **does not have any official social media accounts** — no Instagram, no X/Twitter, no Discord, no Telegram, no Facebook, and no YouTube. We do not engage in social media marketing, and we never will.
 
-> **Note:** We do have a TikTok account (@veckpriv), but it is **rarely used** and not actively managed. It exists primarily to reserve the handle and prevent impersonation. For the most up-to-date information, always refer to our official website.
+> **Note:** We do have a TikTok account (@veckpriv and @privweb_), but it is **rarely used** and not actively managed. It exists primarily to reserve the handle and prevent impersonation. For the most up-to-date information, always refer to our official website.
 
 **The only official home of VeckPRIV is:**
 
