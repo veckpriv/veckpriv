@@ -26,17 +26,23 @@ VeckPRIV is more than just a collection of tools — it's a statement that the w
 
 ## ⚠️ Important: Where to Find Us
 
-VeckPRIV **does not have any official social media accounts** — no Instagram, no X/Twitter, no Discord, no Telegram, no Facebook, and no YouTube. We do not engage in social media marketing, and we never will.
-
-> **Note:** We do have a TikTok account (@veckpriv and @privweb_), but it is **rarely used** and not actively managed. It exists primarily to reserve the handle and prevent impersonation. For the most up-to-date information, always refer to our official website.
-
 **The only official home of VeckPRIV is:**
 
 > **https://veckpriv.com**
 
 Everything else — fake accounts, imposter pages, or third-party listings — is **not affiliated with us**. If you see VeckPRIV anywhere else, it's likely a scam or impersonation. Stay safe and always verify that you're on the real `.com` domain.
 
-We choose to stay away from social media because:
+We do have a presence on a few platforms, but they are not our primary focus:
+
+| Platform | Account | Status |
+|----------|---------|--------|
+| YouTube | @veckpriv | Rarely updated |
+| TikTok (Founder) | @veckpriv | Rarely used |
+| TikTok (Official) | @privweb_ | Rarely used |
+
+> **Note:** We do not actively manage or regularly post on these platforms. They exist primarily to reserve the handles and prevent impersonation. For the most up-to-date information, always refer to our official website.
+
+We choose to stay away from heavy social media engagement because:
 - We don't want to collect or monetize your attention
 - We don't want to feed algorithms with your data
 - We believe in a quiet, private web experience — not engagement loops
